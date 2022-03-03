@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jthtang10@gmail.com
+	name = jethro tang
